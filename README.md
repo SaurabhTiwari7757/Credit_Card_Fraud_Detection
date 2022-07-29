@@ -1,5 +1,8 @@
 # Credit_Card_Fraud_Detection
 
+
+In this project, we will detect fraudulent credit card transactions with the help of Machine Learning Models
+
 DATA UNDERSTANDING
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
